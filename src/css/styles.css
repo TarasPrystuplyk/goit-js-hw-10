@@ -25,6 +25,12 @@ li {
   display: flex;
   margin-bottom: 5px;
 }
+
+img{
+  height: 30px;
+  margin-right: 10px;
+}
+
 .flag{
   width: 150px;
   height: 100px;
