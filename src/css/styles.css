@@ -25,16 +25,19 @@ li {
   display: flex;
   margin-bottom: 5px;
 }
-img {
-  width: 60px;
-  
-  margin-right: 5px;
+.flag{
+  width: 150px;
+  height: 100px;
+  margin-right: 10px;
 }
+
+
 .country-list {
   padding: 0;
 }
 span {
-  font-size: x-large;
+  font-size: 30px;
+  font-weight: 700;
 }
 .info{
   display: flex;
